@@ -1,12 +1,12 @@
-# `nolint`
+# `nocodelint`
 
 A linter for `nocode`.
 
 ## Usage
 
 ```js
-const nolint = require('nolint');
+const nocodelint = require('nocodelint');
 
-nolint('');    // true
-nolint('oof'); // false
+nocodelint('');    // true
+nocodelint('oof'); // false
 ```
