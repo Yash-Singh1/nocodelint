@@ -1,0 +1,20 @@
+{
+  "name": "nolint",
+  "version": "1.0.0",
+  "description": "Linter for nocode",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yash-Singh1/nolint.git"
+  },
+  "keywords": [
+    "linter",
+    "nocode"
+  ],
+  "author": "Yash Singh",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yash-Singh1/nolint/issues"
+  },
+  "homepage": "https://github.com/Yash-Singh1/nolint#readme"
+}
