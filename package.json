@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/Yash-Singh1/nocodelint/issues"
   },
-  "homepage": "https://github.com/Yash-Singh1/nocodelint#readme"
+  "homepage": "https://github.com/Yash-Singh1/nocodelint#readme",
+  "devDependencies": {
+    "tap": "^15.0.9"
+  },
+  "scripts": {
+    "test": "tap"
+  }
 }
