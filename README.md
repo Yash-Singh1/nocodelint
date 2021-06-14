@@ -5,7 +5,7 @@ A linter for `nocode`.
 ## Installation
 
 ```sh
-npm install --save nocodelint
+npm install nocodelint
 ```
 
 ## Usage
